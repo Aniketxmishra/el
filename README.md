@@ -1,4 +1,3 @@
-# AI & ML Internship Task 1: Data Cleaning & Preprocessing
 
 ## Objective
 
@@ -90,17 +89,15 @@ Learn how to clean and prepare raw data for machine learning using Python and st
 ## How to Run
 
 1. Clone this repository or download the files.
-2. Open `AI_ML_Task1.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `Task_1.ipynb` in Jupyter Notebook or Google Colab.
 3. Run all cells to reproduce the results.
 
 ---
 
 ## Submission
 
-- [GitHub Repository Link](YOUR_REPO_LINK_HERE)
-- [Submission Link](Submission Link)
+- [GitHub Repository Link](https://github.com/Aniketxmishra/el/)
 
----
 
-*Task completed as part of the Elevate AI & ML Internship (Ministry of MSME, Govt. of India)*
+
 
