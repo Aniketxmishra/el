@@ -119,5 +119,4 @@ Perform comprehensive exploratory data analysis to uncover patterns, trends, and
 
 ---
 
-## Repository Structure
 
